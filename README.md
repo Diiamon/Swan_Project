@@ -33,9 +33,6 @@ You can explore the Tableau info deck directly using the following link: [Custom
 2. **Analyze Churn Patterns**:
    Examine the reasons for churn and the demographics of churners to understand key factors contributing to customer attrition.
 
-3. **Focus on High-Risk Customers**:
-   Use the list of customers with the highest churn probabilities to prioritise retention efforts and implement targeted strategies.
-
 
 ---
 
