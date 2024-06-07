@@ -36,7 +36,7 @@ You can explore the Tableau info deck directly using the following link: [Custom
 
 ---
 
-**Happy Exploring and Analyzing!**
+**Happy Exploring and Analysing!**
 
 **Customer Retention Analysis Team**
 
